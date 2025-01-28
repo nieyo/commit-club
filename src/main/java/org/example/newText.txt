@@ -1,2 +1,3 @@
 // Hi!
-// Auch HI1
+// Auch Hi!
+// Fehler korrigiert! :)
